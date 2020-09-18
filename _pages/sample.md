@@ -1,8 +1,4 @@
 ---
-title: sample
----
-
----
 title: GitHub 블로그 시작하기
 layout: single
 author_profile: true
