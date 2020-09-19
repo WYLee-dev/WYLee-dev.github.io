@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "WooYoung Lee"
 description              : "WYLee's portfolio"
-url                      : "https://WYLee-dev.github.io/_pages/Curriculum Vitae/"
+url                      : "https://WYLee-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "이우영"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "AI Researcher"
+  bio              : "AI Researcher\n\nMaster of Science in Electrical and Electronics Engineering\n\n전문연구요원으로 대체 복무 중이고 2021년 2월 말에 복무만료 예정입니다."
   location         : "Republic of Korea"
   email            : "wylee.dev@gmail.com"
   github           : "WYLee-dev"
