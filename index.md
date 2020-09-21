@@ -9,7 +9,7 @@ related: true
 toc: true
 toc_sticky: true
 toc_label: Index
-last_modified_at: '2020-09-19 00:00:00 +0800'
+last_modified_at: '2020-09-20 00:00:00 +0800'
 ---
 
 ## [Download CV](https://WYLee-dev.github.io/assets\documents/WYLee_Curriculum_Vitae.pdf)
@@ -28,7 +28,7 @@ last_modified_at: '2020-09-19 00:00:00 +0800'
 ![OS](./assets/images/os.png){: .align-center}
 
 ## Research Interests
-주 관심 분야는 딥러닝 기반 영상처리고 컴퓨터 비전 분야에 사용하는 딥러닝 모델을 학습하고 변환하는 업무를 주로 수행하고 있습니다.
+**주 관심 분야는 딥러닝 기반 영상처리고 컴퓨터 비전 분야에 사용하는 딥러닝 모델을 학습하고 변환하는 업무를 주로 수행하고 있습니다.**
 
 Classification, Object detection, Instance segmentation, Person Re-Identification 분야에 사용하는 딥러닝 모델을 직접 학습한 경험이 있습니다.
 
@@ -36,7 +36,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 
 ## Experience
 **한국생산기술연구원**
-```
+```java
 융합기술연구소 로봇응용연구부문 연구원(전문연구요원)
 재직기간: 2019.11~현재
 담당 업무
@@ -45,9 +45,10 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 - Instance Segmentation 모델 학습용 데이터 태깅 툴 개발
 - 딥러닝 모델 inference를 위한 C++ 기반 DLL 개발
 - python 기반 UR5e 로봇 제어 프로그램 개발
+- 마스크 불량 인식 시스템 개발
 ```
 **(주)인텔리빅스**
-```
+```java
 영상정보처리연구소 AI개발팀 연구원(전문연구요원)
 재직기간: 2018.02~2019.11
 담당 업무
@@ -59,21 +60,21 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 
 ## Education
 **M.S. in Electrical and Electronics Engineering**
-```
+```java
 중앙대학교 일반대학원 전자전기공학과 석사 졸업(제어 및 시스템 전공)
 지도교수: 심귀보 교수님(유비쿼터스로봇 및 지능정보시스템 연구실)
 학위논문: 최적의 CNN 구조 설계를 위한 HS 알고리즘 기반 하이퍼파라미터 결정 방법
 재학기간: 2016.03~2018.02
 ```
 **B.S. in Electrical and Electronics Engineering**
-```
+```java
 중앙대학교 공과대학 전자전기공학과 졸업
 재학기간: 2012.03~2016.02
 ```
 
 ## Projects
 **시설원예 모니터링, 방제, 수확, 이송 작업의 무인 자동화를 위한 로봇시스템과 작업체계 개발(산업통상자원부)**
-```
+```java
 과제내용: 시설원예 무인 자동화를 위한 다목적 로봇 시스템 및 작업체계 개발
 과제참여기간: 2019.11~현재
 담당 업무
@@ -84,7 +85,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 ```
 
 **설치가 용이한 지능형 다관절 식사보조 로봇 개발(산업통상자원부)**
-```
+```java
 과제내용: 고령자 및 장애인을 위한 인공지능 기반 식사 보조 및 식사 이력 관리 기능을 갖는 돌봄 로봇 개발
 과제참여기간: 2019.11~현재
 담당 업무
@@ -93,7 +94,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 ```
 
 **수중 작업 편의성 향상을 위한 지능형 해양로봇 개발(한국생산기술연구원 내부과제)**
-```
+```java
 과제내용: 수중 작업 편의성 향상을 위한 지능형 해양로봇 개발을 위한 요소 기술 개발
 과제참여기간: 2020.01~현재
 담당 업무
@@ -102,7 +103,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 ```
 
 **CCTV 제약점 개선을 통해 범인 검거율 저하 문제 해결을 지원하는 지능형 영상 보안 시스템 기술 개발(과학기술정보통신부)**
-```
+```java
 과제내용: 고속 이동 객체, 원거리 소형 객체, 가려짐 객체 등 CCTV의 제약으로 인한 범인 검거율 저하 문제 해결을 지원하는 지능형 영상보안 시스템 개발
 과제참여기간: 2018.06~2019.11
 담당 업무
@@ -112,7 +113,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 ```
 
 **5G 기반의 스마트시티 서비스 개발 및 실증((재)기가코리아사업단)**
-```
+```java
 과제내용: 5G 기반의 스마트시티 구현을 위한 서비스 요소 기술 개발 및 실증
 과제참여기간: 2019.01~~2019.11
 담당 업무
@@ -121,7 +122,7 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 ```
 
 **신발갑피 열용융 접착재봉(Fuse Sewing) 공정용 로봇시스템 개발(산업통상자원부)**
-```
+```java
 과제내용: 신발 갑피 제작 공정 자동화를 위한 열용융 접착재봉(Fuse Sewing) 공정용 로봇 시스템 개발
 과제참여기간: 2016.05~2017.12
 담당 업무
