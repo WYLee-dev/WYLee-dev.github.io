@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Curriculum Vitae"
-    url: /
   - title: "Portfolio"
     url: /_pages/portfolio
+  - title: "Curriculum Vitae"
+    url: /
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
