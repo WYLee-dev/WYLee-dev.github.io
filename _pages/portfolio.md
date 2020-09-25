@@ -157,7 +157,7 @@ C++ 에서 사용할 수 있도록 모델 변환 및 2가지 버전으로 DLL �
 개발 언어: MATLAB
 Class: 갑피 패턴1, 갑피 패턴2, 갑피 패턴3, 갑피 패턴4
 ```
-![shoe](../../assets/images/shoe.PNG){: .align-center}
+![shoe](../../assets/images/shoe.png){: .align-center}
 
 ---
 
