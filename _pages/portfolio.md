@@ -49,14 +49,13 @@ PyTorch에서 학습한 instance segmentation 모델을 C++ 에서 사용할 수
 ---
 
 ### 식판 위 음식물 영역 인식을 위한 딥러닝 기반 Instance Segmentation 모델 학습
-<!-- Class: Rice, Soup, Side dish1, Side dish2, Side dish3 -->
 ```java
 개발 기간: 2020.09~현재
 개발 언어: Python
-Class: Rice
+Class: Rice, Soup, Side dish1, Side dish2, Side dish3
 ```
-![rice1](../../assets/images/rice1.jpg){: .align-center}
-![rice2](../../assets/images/rice2.jpg){: .align-center}
+![rice1](../../assets/images/meal1.jpg){: .align-center}
+![rice2](../../assets/images/meal2.jpg){: .align-center}
 
 ---
 
