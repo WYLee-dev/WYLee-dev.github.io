@@ -9,7 +9,7 @@ related: true
 toc: true
 toc_sticky: true
 toc_label: Index
-last_modified_at: '2020-09-25 00:00:00 +0800'
+last_modified_at: '2021-12-12 00:00:00 +0800'
 ---
 
 ## [Download CV](https://WYLee-dev.github.io/assets\documents/WYLee_Curriculum_Vitae.pdf)
@@ -35,10 +35,18 @@ Classification, Object detection, Instance segmentation, Person Re-Identificatio
 LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 학습한 모델을 C++에서 사용 가능한 형태로 변환한 경험이 있습니다.
 
 ## Experience
+**LG CNS**
+```java
+CTO D&A연구소 AI기술LAB 선임연구원
+재직기간: 2021.04~현재
+담당 업무
+- 얼굴 인식 분야 딥러닝 모델 개발(2021.09 KISA 인증 취득)
+- 행동 인식 분야 딥러닝 모델 개발
+```
 **한국생산기술연구원**
 ```java
 융합기술연구소 로봇응용연구부문 연구원(전문연구요원)
-재직기간: 2019.11~현재
+재직기간: 2019.11~2021.02
 담당 업무
 - Object Detection 분야 딥러닝 모델 개발
 - Instance Segmentation 분야 딥러닝 모델 개발
@@ -157,20 +165,22 @@ LibTorch, ONNX, ONNX Runtime, TensorRT, OpenVINO를 이용하여 Python에서 �
 > [2] Kwee-Bo Sim and **Woo-Young Lee**, Method for deriving optimal solution using the HS algorithm and Terminal device for performing the same, KR-Registration, 10–2042323-0000.[[link]](https://doi.org/10.8080/1020170183583)
 
 ## Publications(SCIE)
-> [1] **W.-Y. Lee**, S.-M. Park, and K.-B. Sim, “Optimal hyperparameter tuning of convolutional neural networks based on the parameter-setting-free harmony search algorithm”, Optik, vol. 172, pp. 359–367, 2018. [[link]](https://doi.org/10.1016/j.ijleo.2018.07.044)
+> [1] **W.-Y. Lee**, S.-M. Park, and K.-B. Sim, “Optimal hyperparameter tuning of convolutional neural networks based on the parameter-setting-free harmony search algorithm”, Optik, vol. 172, pp. 359–367, 2018. [[link]](https://doi.org/10.5302/J.ICROS.2020.20.0129)
 
 > [2] **W.-Y. Lee**, K.-E. Ko, and K.-B. Sim, “Robust lip detection based on histogram of oriented gradient features and convolutional neural network under effects of light and background”, Optik, vol. 136, pp. 462–469, 2017. [[link]](https://doi.org/10.1016/j.ijleo.2017.02.017)
 
 ## Publications(domestic)
-> [1] **W.-Y. Lee**, S.-W. Lee, S. M. Park, T.-H. Kim, Z. W. Geem, I.-H. Geem, and K.-B. Sim, “Generating a adhesive nozzle path by the parameter-setting-free harmony search algorithm for a shoe-upper assembly process”, Journal of Korean Institute of Intelligent Systems, vol. 28, no. 1, pp. 49–56, 2018. [[link]](http://doi.org/10.5391/JKIIS.2018.28.1.49)
+> [1] **W.-Y. Lee**, K. E. Ko, J. H. Kang, H. J. Park, I. H. Jang, “Instance Segmentation based Recognition System Tracking Tomatoes by Ripeness in Natural Light Conditions”, Journal of Institute of Control, Robotics and Systems, vol. 26, pp. 940–948, 2020. [[link]](https://doi.org/10.5302/J.ICROS.2020.20.0129)
 
-> [2] **W.-Y. Lee**, K.-E. Ko, Z.-W. Geem, and K.-B. Sim, “Method that determining the hyperparameter of cnn using hs algorithm”, Journal of Korean institute of intelligent systems, vol. 27, no. 1, pp. 22–28, 2017. [[link]](https://doi.org/10.5391/JKIIS.2017.27.1.022)
+> [2] **W.-Y. Lee**, S.-W. Lee, S. M. Park, T.-H. Kim, Z. W. Geem, I.-H. Geem, and K.-B. Sim, “Generating a adhesive nozzle path by the parameter-setting-free harmony search algorithm for a shoe-upper assembly process”, Journal of Korean Institute of Intelligent Systems, vol. 28, no. 1, pp. 49–56, 2018. [[link]](http://doi.org/10.5391/JKIIS.2018.28.1.49)
 
-> [3] **W.-Y. Lee**, S.-M. Park, I. Jang, T.-H. Kim, and K.-B. Sim, “Cnn-based shoe-upper pattern recognition and generation of adhesive point”, Journal of Institute of Control, Robotics and Systems, vol. 23, pp. 725–731, 2017. [[link]](https://doi.org/10.5302/J.ICROS.2017.17.0109)
+> [3] **W.-Y. Lee**, K.-E. Ko, Z.-W. Geem, and K.-B. Sim, “Method that determining the hyperparameter of cnn using hs algorithm”, Journal of Korean institute of intelligent systems, vol. 27, no. 1, pp. 22–28, 2017. [[link]](https://doi.org/10.5391/JKIIS.2017.27.1.022)
 
-> [4] J.-W. Kim, **W.-Y. Lee**, J.-H. Yu, and K.-B. Sim, “Autonomous mobile robot control using the wearable devices based on emg signal for detecting fire”, Journal of Korean Institute of Intelligent Systems, vol. 26, no. 3, pp. 176–181, 2016. [[link]](https://doi.org/10.5391/JKIIS.2016.26.3.176)
+> [4] **W.-Y. Lee**, S.-M. Park, I. Jang, T.-H. Kim, and K.-B. Sim, “Cnn-based shoe-upper pattern recognition and generation of adhesive point”, Journal of Institute of Control, Robotics and Systems, vol. 23, pp. 725–731, 2017. [[link]](https://doi.org/10.5302/J.ICROS.2017.17.0109)
 
-> [5] **W.-Y. Lee**, H.-M. Ko, J.-H. Yu, and K.-B. Sim, “An implementation of smart dormitory system based on internet of things”, Journal of Korean Institute of Intelligent Systems, vol. 26, no. 4, pp. 295–300, 2016. [[link]](https://doi.org/10.5391/JKIIS.2016.26.4.295)
+> [5] J.-W. Kim, **W.-Y. Lee**, J.-H. Yu, and K.-B. Sim, “Autonomous mobile robot control using the wearable devices based on emg signal for detecting fire”, Journal of Korean Institute of Intelligent Systems, vol. 26, no. 3, pp. 176–181, 2016. [[link]](https://doi.org/10.5391/JKIIS.2016.26.3.176)
+
+> [6] **W.-Y. Lee**, H.-M. Ko, J.-H. Yu, and K.-B. Sim, “An implementation of smart dormitory system based on internet of things”, Journal of Korean Institute of Intelligent Systems, vol. 26, no. 4, pp. 295–300, 2016. [[link]](https://doi.org/10.5391/JKIIS.2016.26.4.295)
 
 ## Awards
 [1] Best paper award at 2017 Korea Institute of Intelligent Systems autumn conference	(2017.11)
